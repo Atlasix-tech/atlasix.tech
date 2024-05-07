@@ -5,12 +5,3 @@ node_modules/
 .hugo_build.lock
 public/
 resources/
-
-# clone of gohugoio/hugo for docker-support
-hugo/
-
-# local GH token, used for some scripts
-.gh-token
-
-# build directories
-/bin
